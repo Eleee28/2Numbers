@@ -1,0 +1,29 @@
+# Android/IntelliJ specific
+.idea/
+.gradle/
+local.properties
+/local.properties
+*.iml
+*.hprof
+*.log
+.DS_Store
+/build/
+
+# Android Studio auto-generated files
+.cxx/
+.externalNativeBuild/
+.firebase/
+.unity3d/
+.android/
+/captures/
+
+
+
+
+
+
+
+
+
+
+
